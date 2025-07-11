@@ -95,6 +95,7 @@
 /*----------------------------------------*/
 /*  1.1 Theme Default
 /*----------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Montserrat:wght@300;400;500;600;700;800;900&family=Satisfy&family=Poppins:wght@300;400;500;600;700&family=Schoolbell&display=swap" rel="stylesheet');
 .tp-product-tab-2 .nav-tabs .nav-link .tp-product-tab-tooltip, .tp-tab-line, .tp-swiper-dot .swiper-pagination-bullet, .tp-swiper-dot-border .swiper-pagination-bullet, .tp-swiper-scrollbar, .back-to-top-wrapper, a,
 button,
@@ -132,8 +133,8 @@ li,
   /**
   @font family declaration
   */
-  --tp-ff-body: 'Montserrat', sans-serif;
-  --tp-ff-heading: 'Montserrat', sans-serif;
+  --tp-ff-body: "Merriweather", serif;
+  --tp-ff-heading: "Merriweather", serif;
   --tp-ff-satisfy: 'Satisfy', cursive;
   --tp-ff-poppins: 'Poppins', sans-serif;
   --tp-ff-fontawesome: "Font Awesome 6 Pro";
